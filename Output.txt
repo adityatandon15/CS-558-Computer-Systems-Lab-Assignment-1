@@ -1,0 +1,80 @@
+Philisopher-0 is thinking
+Philisopher-1 is thinking
+Philisopher-2 is thinking
+Philisopher-3 is thinking
+Philisopher-4 is thinking
+Philosopher-3 has picked the fork 3
+Philosopher-3 has picked the fork 4
+Philosopher-3 is Eating.........................................
+Philisopher-0 is thinking
+Philisopher-4 is thinking
+Philisopher-2 is thinking
+Philosopher-1 has picked the fork 1
+Philosopher-1 has picked the fork 2
+Philosopher-1 is Eating.........................................
+Philisopher-0 is thinking
+Philisopher-2 is thinking
+Philisopher-4 is thinking
+Philosopher-3 has put the fork 3
+Philosopher-3 has put the fork 4
+Philisopher-3 is thinking
+Philosopher-1 has put the fork 1
+Philosopher-1 has put the fork 2
+Philisopher-1 is thinking
+Philisopher-0 is thinking
+Philosopher-2 has picked the fork 2
+Philosopher-2 has picked the fork 3
+Philosopher-2 is Eating.........................................
+Philosopher-4 has picked the fork 0
+Philosopher-4 has picked the fork 4
+Philosopher-4 is Eating.........................................
+Philisopher-3 is thinking
+Philisopher-1 is thinking
+Philisopher-0 is thinking
+Philisopher-3 is thinking
+Philosopher-2 has put the fork 2
+Philosopher-2 has put the fork 3
+Philisopher-2 is thinking
+Philisopher-1 is thinking
+Philisopher-0 is thinking
+Philosopher-4 has put the fork 0
+Philosopher-4 has put the fork 4
+Philisopher-4 is thinking
+Philosopher-3 has picked the fork 3
+Philosopher-3 has picked the fork 4
+Philosopher-3 is Eating.........................................
+Philisopher-2 is thinking
+Philosopher-1 has picked the fork 1
+Philosopher-1 has picked the fork 2
+Philosopher-1 is Eating.........................................
+Philisopher-0 is thinking
+Philisopher-4 is thinking
+Philisopher-2 is thinking
+Philisopher-4 is thinking
+Philisopher-0 is thinking
+Philosopher-3 has put the fork 3
+Philosopher-3 has put the fork 4
+Philosopher-1 has put the fork 1
+Philosopher-1 has put the fork 2
+Philisopher-1 is thinking
+Philisopher-4 is thinking
+Philisopher-2 is thinking
+Philisopher-3 is thinking
+Philosopher-0 has picked the fork 0
+Philosopher-0 has picked the fork 1
+Philosopher-0 is Eating.........................................
+Philosopher-2 has picked the fork 2
+Philosopher-2 has picked the fork 3
+Philosopher-2 is Eating.........................................
+Philisopher-3 is thinking
+Philisopher-1 is thinking
+Philisopher-4 is thinking
+Philosopher-0 has put the fork 0
+Philosopher-0 has put the fork 1
+Philosopher-4 has picked the fork 0
+Philosopher-4 has picked the fork 4
+Philosopher-4 is Eating.........................................
+Philosopher-2 has put the fork 2
+Philosopher-2 has put the fork 3
+Philosopher-4 has put the fork 0
+Philosopher-4 has put the fork 4
